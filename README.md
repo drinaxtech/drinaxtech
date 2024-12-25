@@ -26,9 +26,9 @@ We specialize in delivering innovative web development solutions, with expertise
 We’re always excited to collaborate on innovative projects and solve challenging problems!  
 Feel free to reach out to us:
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Stackoverflow: [DrinaxTech Stackoverflow](#) (https://stackoverflow.com/users/11858157/dori-rina)
-- 🔗 LinkedIn: [DrinaxTech LinkedIn](#) (https://al.linkedin.com/in/dorian-rina)
+- 📧 Email: [dorian.rina@gmail.com](mailto:dorian.rina@gmail.com)
+- 🌐 Stackoverflow: [DrinaxTech Stackoverflow](https://stackoverflow.com/users/11858157/dori-rina)
+- 🔗 LinkedIn: [DrinaxTech LinkedIn](https://al.linkedin.com/in/dorian-rina)
 
 ---
 
@@ -37,7 +37,6 @@ Feel free to reach out to us:
 We believe in sharing knowledge and actively contributing to the open-source community. Here's an overview of our GitHub activity:
 
 ![DrinaxTech's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DrinaxTech&theme=radical)  
-![DrinaxTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrinaxTech&show_icons=true&theme=radical)  
 ![DrinaxTech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrinaxTech&layout=compact&theme=radical)
 
 ---
