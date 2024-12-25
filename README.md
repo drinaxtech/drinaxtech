@@ -32,9 +32,13 @@ Feel free to reach out to us:
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Contributions
 
-![DrinaxTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrinaxTech&show_icons=true&theme=radical)
+We believe in sharing knowledge and actively contributing to the open-source community. Here's an overview of our GitHub activity:
+
+![DrinaxTech's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DrinaxTech&theme=radical)  
+![DrinaxTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrinaxTech&show_icons=true&theme=radical)  
+![DrinaxTech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrinaxTech&layout=compact&theme=radical)
 
 ---
 
