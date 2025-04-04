@@ -23,7 +23,7 @@ We specialize in delivering innovative web development solutions, with expertise
 
 ## 🤝 Let's Collaborate
 
-We’re always excited to collaborate on innovative projects and solve challenging problems!  
+I'm always excited to collaborate on innovative projects and solve challenging problems!  
 Feel free to reach out to me:
 
 - 📧 Email: [dorian.rina@gmail.com](mailto:dorian.rina@gmail.com)
@@ -43,7 +43,7 @@ I believe in sharing knowledge and actively contributing to the open-source comm
 
 ## 🛠️ Tools and Technologies
 
-Here are some tools and technologies we use regularly:
+Here are some tools and technologies I use regularly:
 
 | Technology      | Expertise Level |
 |------------------|-----------------|
@@ -58,7 +58,7 @@ Here are some tools and technologies we use regularly:
 
 ## ⭐ Thank You for Visiting!
 
-Don't forget to ⭐ our repositories if you find our work helpful!
+Don't forget to ⭐ our repositories if you find my work helpful!
 
 
 <!---
