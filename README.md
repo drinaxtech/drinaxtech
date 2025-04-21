@@ -31,6 +31,7 @@ Feel free to reach out to me:
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-DrinaxTech-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11858157/dori-rina)
 - 🔗 LinkedIn: [DrinaxTech LinkedIn](https://al.linkedin.com/in/dorian-rina)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dorian%20Rina-blue?style=flat&logo=linkedin)](https://al.linkedin.com/in/dorian-rina)
+- [![Upwork](https://img.shields.io/badge/Upwork-Dori%20Rina-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/doririna)
 
 ---
 
