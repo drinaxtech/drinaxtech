@@ -28,6 +28,7 @@ Feel free to reach out to me:
 
 - 📧 Email: [dorian.rina@gmail.com](mailto:dorian.rina@gmail.com)
 - 🌐 Stackoverflow: [DrinaxTech Stackoverflow](https://stackoverflow.com/users/11858157/dori-rina)
+- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-DrinaxTech-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11858157/dori-rina)
 - 🔗 LinkedIn: [DrinaxTech LinkedIn](https://al.linkedin.com/in/dorian-rina)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dorian%20Rina-blue?style=flat&logo=linkedin)](https://al.linkedin.com/in/dorian-rina)
 
