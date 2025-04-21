@@ -27,6 +27,7 @@ I'm always excited to collaborate on innovative projects and solve challenging p
 Feel free to reach out to me:
 
 - 📧 Email: [dorian.rina@gmail.com](mailto:dorian.rina@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dorian.rina@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dorian.rina@gmail.com)
 - 🌐 Stackoverflow: [DrinaxTech Stackoverflow](https://stackoverflow.com/users/11858157/dori-rina)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-DrinaxTech-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11858157/dori-rina)
 - 🔗 LinkedIn: [DrinaxTech LinkedIn](https://al.linkedin.com/in/dorian-rina)
