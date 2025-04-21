@@ -26,11 +26,8 @@ I specialize in delivering innovative web development solutions, with expertise 
 I'm always excited to collaborate on innovative projects and solve challenging problems!  
 Feel free to reach out to me:
 
-- 📧 Email: [dorian.rina@gmail.com](mailto:dorian.rina@gmail.com)
-[![Email](https://img.shields.io/badge/Email-dorian.rina@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dorian.rina@gmail.com)
-- 🌐 Stackoverflow: [DrinaxTech Stackoverflow](https://stackoverflow.com/users/11858157/dori-rina)
+- [![Email](https://img.shields.io/badge/Email-dorian.rina@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dorian.rina@gmail.com)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-DrinaxTech-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11858157/dori-rina)
-- 🔗 LinkedIn: [DrinaxTech LinkedIn](https://al.linkedin.com/in/dorian-rina)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dorian%20Rina-blue?style=flat&logo=linkedin)](https://al.linkedin.com/in/dorian-rina)
 - [![Upwork](https://img.shields.io/badge/Upwork-Dori%20Rina-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/doririna)
 
