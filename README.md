@@ -1,7 +1,7 @@
 # Dorian Rina (drinaxtech)
 
 Welcome to the official GitHub profile of **Dorian Rina**! 🚀  
-We specialize in delivering innovative web development solutions, with expertise in:
+I specialize in delivering innovative web development solutions, with expertise in:
 
 - Full-stack development using **Laravel**, **CodeIgniter**, and **Vue.js**.
 - E-commerce platforms, QR ordering systems, and taxi booking applications.
