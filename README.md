@@ -37,7 +37,7 @@ Feel free to reach out to me:
 
 I believe in sharing knowledge and actively contributing to the open-source community. Here's an overview of my GitHub activity:
 
-![DrinaxTech's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DrinaxTech&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=DrinaxTech&theme=radical)  
 ![DrinaxTech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrinaxTech&layout=compact&theme=radical)
 
 ---
