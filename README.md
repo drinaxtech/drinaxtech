@@ -37,6 +37,9 @@ Feel free to reach out to me:
 
 I believe in sharing knowledge and actively contributing to the open-source community. Here's an overview of my GitHub activity:
 
+[![DrinaxTech's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DrinaxTech&theme=radical)](https://github.com/DrinaxTech)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrinaxTech&show_icons=true&count_private=true&theme=radical)
+![GitHub Contribution Calendar](https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg)
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DrinaxTech)
 ![DrinaxTech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrinaxTech&layout=compact&theme=radical)
 
